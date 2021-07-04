@@ -1,0 +1,31 @@
+input{
+    margin-top: 5px;
+    text-align: center;
+}
+.container-fluid
+{
+    background-image: url("book3.jpg.");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.row1{
+    margin-top: 20px;
+    margin-left: 0%;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.col{
+    width: 25%;
+    padding: 10px;
+
+    align-items: center;
+    
+}
+.col img{
+    width: 98%;
+}
+.col h4{
+    text-align: center;
+    
+}
