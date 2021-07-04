@@ -5,7 +5,7 @@ input{
 .container-fluid
 {
 
-    background-image: "book4.jpg";
+    background-color: black;
     background-size: cover;
     background-repeat: no-repeat;
 }
