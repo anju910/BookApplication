@@ -4,7 +4,7 @@ input{
 }
 .container-fluid
 {
-    background-image: url("book3.jpg.");
+    background-image: "book3.jpg.";
     background-size: cover;
     background-repeat: no-repeat;
 }
