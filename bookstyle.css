@@ -4,8 +4,7 @@ input{
 }
 .container-fluid
 {
-
-    background-color: black;
+    background-image: url("https://anju910.github.io/book3.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
