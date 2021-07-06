@@ -2,13 +2,13 @@ input{
     margin-top: 5px;
     text-align: center;
 }
-.container-fluid
+.first
 {
-    background-image: url("https://anju910.github.io/book3.jpg");
+    background-image: url("background.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
-.row1{
+.row{
     margin-top: 20px;
     margin-left: 0%;
     width: 100%;
